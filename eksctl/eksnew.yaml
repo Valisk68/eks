@@ -15,4 +15,4 @@ managedNodeGroups:
     desiredCapacity: 2
     minSize: 1
     maxSize: 4
-    amiFamily: AmazonLinux2
+    #amiFamily: AmazonLinux2
