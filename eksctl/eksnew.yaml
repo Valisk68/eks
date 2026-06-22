@@ -4,7 +4,7 @@ kind: ClusterConfig
 metadata:
   name: roboshop
   region: us-east-1
-  version: "1.29"
+  #version: "1.29"
 
 availabilityZones: ["us-east-1a", "us-east-1b", "us-east-1c"]
 
